@@ -11,7 +11,7 @@ import { OrbitControls } from 'https://unpkg.com/three@0.121.1/examples/jsm/cont
 document.getElementById('explode').onclick = onSliderChange
 
 let data = {
-  definition: 'dresser3.gh',
+  definition: 'curved_brick_wall_02',
   inputs: {
     'num': document.getElementById('count').valueAsNumber,
     'explode': document.getElementById('explode').checked
