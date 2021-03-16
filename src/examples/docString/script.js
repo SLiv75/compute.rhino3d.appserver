@@ -8,7 +8,7 @@ import rhino3dm from 'https://cdn.jsdelivr.net/npm/rhino3dm@0.15.0-beta/rhino3dm
 const loader = new Rhino3dmLoader()
 loader.setLibraryPath( 'https://cdn.jsdelivr.net/npm/rhino3dm@0.15.0-beta/' )
 
-const definition = 'docString.gh'
+const definition = 'tunnel_01_b.gh'
 
 // setup input change events
 const count_slider = document.getElementById( 'count' )

@@ -4,7 +4,7 @@ import rhino3dm from 'https://cdn.jsdelivr.net/npm/rhino3dm@0.15.0-beta/rhino3dm
 
 /* eslint no-undef: "off", no-unused-vars: "off" */
 
-const definition = 'BranchNodeRnd.gh'
+const definition = ''
 
 // setup input change events
 const count_slider = document.getElementById( 'count' )
